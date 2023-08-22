@@ -10,7 +10,7 @@
 - Programming Languages: JavaScript, Python
 - Web Development: HTML, CSS, JS
 - Version Control: Git
-## Languages
+### Languages
 - English (intermediate)
 - Arabic (native)
 
